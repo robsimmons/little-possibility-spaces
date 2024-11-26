@@ -1,0 +1,8 @@
+color N is { red, green, blue } :- node N.
+
+#forbid edge X Y, color X is C, color Y is C.
+
+node a. edge a b. edge a c. edge a d.
+node b. edge b c. edge b d.
+node c. edge c d.
+node d.
