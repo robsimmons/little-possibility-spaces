@@ -39,6 +39,6 @@ And this small graph with, the complete graph with 4 edges:
     b-c, b-d,
     c-d
 
-Subtask 1: show some 5-coloring of the large graph
-Subtask 2: show all 1440 5-colorings of the large graph
-Subtask 3: show that there is no 3-coloring of the small graph
+- Subtask 1: show some 5-coloring of the large graph
+- Subtask 2: show all 1440 5-colorings of the large graph
+- Subtask 3: show that there is no 3-coloring of the small graph
